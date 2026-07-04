@@ -1,2 +1,2 @@
-# ShogiBogi
+# Shoginux
 Shogi application for Linux
